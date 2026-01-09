@@ -1,7 +1,11 @@
-# Hi 👋 I'm Kim Nguyen
+# Hi 👋 I'm Nguyen Ngoc Kim
 
-🎓 Computer Science Student  
-🌐 Portfolio Website: [kimnn.com](https://kimnn.com)
+Hi 👋 I'm a Software Engineering student with a strong interest in web development.  
+I enjoy building clean, responsive applications and continuously improving my skills in both programming fundamentals and modern web technologies.  
+Currently focusing on **Frontend development** while maintaining a solid foundation in **software engineering and problem-solving**.
+
+
+- 🌐 Portfolio Website: [kimnn.com](https://kimnn.com)
 - 📧 Email: [contact@kimnn.com](mailto:contact@kimnn.com)
 - 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
 - 📞 Phone: +84 9xx xxx xxx
