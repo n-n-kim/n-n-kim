@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nguyen Ngoc Kim
 
-Hi 👋 I'm a Software Engineering student with a strong interest in web development.  
+Hi 👋 I'm a Computer Science student with a strong interest in web development.  
 I enjoy building clean, responsive applications and continuously improving my skills in both programming fundamentals and modern web technologies.  
 Currently focusing on **Frontend development** while maintaining a solid foundation in **software engineering and problem-solving**.
 
@@ -10,12 +10,6 @@ Currently focusing on **Frontend development** while maintaining a solid foundat
 - 💼 LinkedIn: [linkedin.com/in/nn-k](https://linkedin.com/in/nn-k)
 - 📞 Phone: +84 817 723 439
 - 💻 GitHub: [github.com/n-n-kim](https://github.com/n-n-kim)
-
----
-
-## 🚀 About Me
-I am a Software Engineering student with a strong interest in web development and frontend technologies.  
-I enjoy building clean, responsive interfaces and continuously improving my programming skills.
 
 ---
 
