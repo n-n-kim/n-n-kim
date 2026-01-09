@@ -1,8 +1,11 @@
 # Hi 👋 I'm Kim Nguyen
 
-🎓 Software Engineering Student  
-💻 Aspiring Frontend / Web Developer  
+🎓 Computer Science Student  
 🌐 Portfolio Website: [kimnn.com](https://kimnn.com)
+- 📧 Email: [contact@kimnn.com](mailto:contact@kimnn.com)
+- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- 📞 Phone: +84 9xx xxx xxx
+- 💻 GitHub: [github.com/n-n-kim](https://github.com/n-n-kim)
 
 ---
 
