@@ -1,7 +1,6 @@
 # Hi 👋 I'm Nguyen Ngoc Kim
 
-Hi 👋 I'm a Computer Science student with a strong interest in web development.  
-I enjoy building clean, responsive applications and continuously improving my skills in both programming fundamentals and modern web technologies.  
+Hi 👋 I'm a Computer Science student with a strong interest in web development. I enjoy building clean, responsive applications and continuously improving my skills in both programming fundamentals and modern web technologies. 
 Currently focusing on **Frontend development** while maintaining a solid foundation in **software engineering and problem-solving**.
 
 
