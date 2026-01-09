@@ -1,14 +1,10 @@
 # Hi 👋 I'm Nguyen Ngoc Kim
 
 🎓 Computer Science Student  
-🌐 Portfolio: https://kimnn.com  
-
----
-
-## 🚀 About Me
-- I enjoy building clean and responsive web interfaces
-- Interested in Frontend, UI/UX, and Web Performance
-- Currently learning React and Cloud technologies
+🌐 My Portfolio Website : [kimnn.com](https://kimnn.com)  
+💼 Connect with me on : [LinkedIn]((https://www.linkedin.com/in/nn-k/))
+📧 Gmail : contact@kimnn.com
+📲 Phone : 0817723439
 
 ---
 
