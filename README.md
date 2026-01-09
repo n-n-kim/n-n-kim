@@ -7,8 +7,8 @@ Currently focusing on **Frontend development** while maintaining a solid foundat
 
 - 🌐 Portfolio Website: [kimnn.com](https://kimnn.com)
 - 📧 Email: [contact@kimnn.com](mailto:contact@kimnn.com)
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📞 Phone: +84 9xx xxx xxx
+- 💼 LinkedIn: [linkedin.com/in/nn-k](https://linkedin.com/in/nn-k)
+- 📞 Phone: +84 817 723 439
 - 💻 GitHub: [github.com/n-n-kim](https://github.com/n-n-kim)
 
 ---
