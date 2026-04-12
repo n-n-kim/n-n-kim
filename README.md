@@ -32,15 +32,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-n-kim&show_icons=true&theme=blueberry" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=n-n-kim&show_icons=true&theme=blueberry&hide_border=true"
+    alt="Ngoc Kim's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-n-kim&layout=compact&theme=blueberry&hide_border=true"
+    alt="Top languages"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-n-kim&layout=compact&theme=blueberry" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=n-n-kim&theme=blueberry" />
+  <img
+    src="https://streak-stats.demolab.com?user=n-n-kim&theme=blueberry&hide_border=true"
+    alt="GitHub streak"
+    height="165"
+  />
 </p>
 
 ---
