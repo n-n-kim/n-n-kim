@@ -34,12 +34,12 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=n-n-kim&show_icons=true&theme=blueberry&hide_border=true"
-    alt="Ngoc Kim's GitHub stats"
+    <!-- alt="Ngoc Kim's GitHub stats" -->
     height="165"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-n-kim&layout=compact&theme=blueberry&hide_border=true"
-    alt="Top languages"
+    <!-- alt="Top languages" -->
     height="165"
   />
 </p>
