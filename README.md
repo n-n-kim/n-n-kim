@@ -34,7 +34,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=n-n-kim&show_icons=true&theme=blueberry&hide_border=true"
-    alt="hehe"
+    alt="omw to fix this ahhhhhh"
     height="165"
   />
   <img
