@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Web / Cloud / projects**
+- 🔭 I’m currently working on **Fullstack / Cloud projects**
 - 🌱 I’m currently learning **React, Node.js, Docker, Cloud Computing**
 - 💬 Ask me about **C++, Python, JavaScript, SQL**
 - 📫 Reach me at **contact@kimnn.com**
